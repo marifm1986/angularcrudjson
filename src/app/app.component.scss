@@ -1,0 +1,15 @@
+.active1 {
+    color: red;
+    transform: translateX(20%);
+}
+.active2 {
+    color: green;
+}
+.active3 {
+    color: purple;
+}
+
+h2 {
+    transform: translateX(0%);
+    transition: all 0.3s ease-in-out;
+}

@@ -1,0 +1,39 @@
+{
+  "Users": [
+    {
+      "name": "asif",
+      "mobile": "0123354654544",
+      "email": "test03@hoxro.com",
+      "password": "Password1@",
+      "id": 1
+    },
+    {
+      "name": "my name",
+      "mobile": "01756196928",
+      "email": "test03@hoxro.com",
+      "password": "Password1@",
+      "id": 2
+    },
+    {
+      "name": "Kamaluddin",
+      "mobile": "545555545445",
+      "email": "test03@hoxro.com",
+      "password": "Password1@",
+      "id": 3
+    },
+    {
+      "name": "Javed Ahemd",
+      "mobile": "5465455455",
+      "email": "michael@hoxro.com",
+      "password": "Password1",
+      "id": 4
+    },
+    {
+      "name": "arif",
+      "mobile": "0252455554",
+      "email": "michael@hoxro.com",
+      "password": "Password1",
+      "id": 5
+    }
+  ]
+}

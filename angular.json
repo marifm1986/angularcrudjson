@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practice1"
+    }
+  },
+  "defaultProject": "practice1",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -7,4 +7,22 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practice1';
+
+  students: any[] = [
+    {
+      name: "arif"
+    },
+    {
+      name: "asif"
+    },
+    {
+      name: "Mehboob"
+    },
+  ]
+
+  isActive: any;
+
+  onClick(std: any) {
+    this.isActive = std;
+  }
 }

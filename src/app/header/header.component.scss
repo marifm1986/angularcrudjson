@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: unset;
+}
+.nav-bar {
+    display: flex;
+    justify-content: flex-end;
+    .nav a {
+        transition: all 0.3s ease;
+        &:hover {
+            background: #eee;
+        }
+        &:active {
+            transform: scale(0.95);
+        }
+        &.router-link-active {
+            background: #444;
+            color: #fff;
+        }
+    }
+}
